@@ -1,0 +1,11 @@
+<tr style="border-top:2px solid;border-top-color:#007000;background: #BDFFB2;">
+<td align="center" height="35px" bgcolor="#f8f8ff"><span id="179"></span>179
+</td>
+<td><i>Étoile d'été, souvenir d'une berceuse </i>
+</td>
+
+<tr[^>]+>
+<td[^>]+><span id="[0-9]+"></span>(?<number>[0-9]+)
+</td>
+<td><i>(?<title>[^<]+)</i>
+</td>
